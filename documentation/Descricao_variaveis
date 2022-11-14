@@ -1,0 +1,19 @@
+Descrição das variáveis
+CUST_ID:                          Identificação do usuário
+BALANCE: 	                      Valor do saldo em conta (corrente/poupança)
+BALANCE_FREQUENCY:                Frequência da atualização do saldo - Pontuação entre 0 e 1
+PURCHASES:	                      Compras feitas apartir da conta
+ONEOFF_PURCHASES:                 Valor máximo de compras feitas de uma só vez
+INSTALLMENTS_PURCHASES:           Quantidade de compras feitas a prazo
+CASH_ADVANCE:                     Adiantamento de parcelas
+PURCHASES_FREQUENCY:              Frequência com que as compras são feitas - Pontuação entre 0 e 1
+ONEOFF_PURCHASES_FREQUENCY:       Com que frequência as compras estão acontecendo de uma só vez
+PURCHASES_INSTALLMENTS_FREQUENCY: Com que frequência as compras parceladas estão sendo feitas - Pontuação entre 0 e 1
+CASH_ADVANCE_FREQUENCY:           Com que frequência o pagamento antecipado está sendo feito
+CASH_ADVANCE_TRX:                 Número de transações feitas antecipadamente
+PURCHASES_TRX:                    Número de transações de compra feita
+CREDIT_LIMIT:                     Limite do cartão de crédito
+PAYMENTS:                         Valor do pagamento feito pelo usuário
+MINIMUM_PAYMENTS:                 Valor mínimo do pagamento feito pelo usuário
+PRCFULLPAYMENT:                   Percentual de pagamento integral
+TENURE:                           Tempo de serviço do cartão de crédito
